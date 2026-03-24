@@ -90,7 +90,7 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jaygarciaaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=jaygarciaaa&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 </div>
 
